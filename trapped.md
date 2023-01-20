@@ -1,2 +1,2 @@
 
-[must enter](trapped.md)
+* [MUST ENTER](trapped.md)
