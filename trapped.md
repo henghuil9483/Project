@@ -1,0 +1,2 @@
+
+[must enter](trapped.md)
