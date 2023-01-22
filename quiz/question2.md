@@ -8,6 +8,6 @@ What is the color of a golden retriever?
 
 [yellow](death.md)
 
-[golden](Correct2.md)
+[golden](correct2.md)
 
 [green](death.md)
