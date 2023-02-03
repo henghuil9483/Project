@@ -3,8 +3,8 @@
 
 Whats the largest Organ in your body?
 
-[skin](correct.md)
+[skin](https://github.com/henghuil9483/Sep10-CYOA-Plan./blob/main/corrects/correct.md)
 
-[lung](death.md)
+[lung](https://github.com/henghuil9483/Sep10-CYOA-Plan./blob/main/start/death.md)
 
-[heart](death.md)
+[heart](https://github.com/henghuil9483/Sep10-CYOA-Plan./blob/main/start/death.md)
