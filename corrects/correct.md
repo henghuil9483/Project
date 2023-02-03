@@ -3,4 +3,4 @@
 
 Looks like you made it through. Your smartest than you seem. The next question waits for you.
 
-[move on](question2.md)
+[move on](../questions/question2.md)
