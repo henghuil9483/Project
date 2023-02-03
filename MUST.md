@@ -1,2 +1,3 @@
 MUST ACCEPT
-[accept](question1.md)
+
+[Accept](question1.md)
