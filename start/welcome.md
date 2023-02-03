@@ -3,4 +3,4 @@
 
 ### Be warn one wrong and your out
 
-* [Begin](question1.md)
+* [Begin](../question1.md)
