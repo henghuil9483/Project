@@ -6,6 +6,6 @@ Whats the largest Organ in your body?
 
 [skin](../corrects/correct.md)
 
-[lung](https://github.com/henghuil9483/Sep10-CYOA-Plan./blob/main/start/death.md)
+[lung](../start/death.md)
 
-[heart](https://github.com/henghuil9483/Sep10-CYOA-Plan./blob/main/start/death.md)
+[heart](..start/death.md)

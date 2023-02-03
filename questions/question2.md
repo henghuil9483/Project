@@ -6,8 +6,8 @@
 
 What is the color of a golden retriever?
 
-[yellow](death.md)
+[yellow](../start/death.md)
 
 [golden](../corrects/correct2.md)
 
-[green](death.md)
+[green](../start/death.md)
