@@ -1,2 +1,0 @@
-
-* [MUST ENTER](trapped.md)
