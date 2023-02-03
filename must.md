@@ -1,3 +1,0 @@
-# Your stuck here forever unless...
-
-* [Accept](question1.md)
