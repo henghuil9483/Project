@@ -4,8 +4,8 @@
 
 You have survive. Now, pick one of the three
 
-[???](bad.md)
+[???](../outcome/bad.md)
 
-[???](gold.md)
+[???](../outcome/gold.md)
 
-[???](surpise.md)
+[???](../outcome/surpise.md)

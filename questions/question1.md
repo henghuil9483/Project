@@ -3,8 +3,8 @@
 
 Whats the largest Organ in your body?
 
-[skin](correct.md)
+[skin](../corrects/correct.md)
 
-[lung](death.md)
+[lung](../start/death.md)
 
-[heart](death.md)
+[heart](..start/death.md)
