@@ -7,4 +7,4 @@ Whats the largest Organ in your body?
 
 [lung](../start/death.md)
 
-[heart](..start/death.md)
+[heart](../start/death.md)
