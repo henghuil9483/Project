@@ -3,4 +3,6 @@
 
 ### Be warn one wrong and your out
 
+<img scr="https://upload.wikimedia.org/wikipedia/commons/5/51/Walking_Out_Of_The_Old_To_A_New_Career_Change_Cartoon.svg">
+
 * [Begin](../questions/question1.md)
